@@ -15,3 +15,11 @@
 <fanart>https://acontecendoaqui.com.br/sites/default/files/ondemand.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/filmesvod/main/README.md</externallink>
 </item>
+
+<item>
+<title>Filmes On Demand Coleção Especias </title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/eWu6bbS.jpg</thumbnail>
+<fanart>https://i.imgur.com/lsQCKaA.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/basefilmesdiretos/main/README.md</externallink>
+</item>
