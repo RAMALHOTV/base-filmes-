@@ -21,5 +21,5 @@
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/eWu6bbS.jpg</thumbnail>
 <fanart>https://i.imgur.com/lsQCKaA.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/basefilmesdiretos/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/CANAIS-PARA-KODI/main/README.md</externallink>
 </item>
